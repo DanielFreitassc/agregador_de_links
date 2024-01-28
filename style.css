@@ -17,7 +17,7 @@
     --bg-url: url(imgs/bg-mobile-light.jpg);
     --stroke-color : rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0,0,0,0.05);
-    --surfce-color-hover: rgb(0,0,0,0.02);
+    --surface-color-hover: rgb(0,0,0,0.02);
     --highlight-color: rgba(0, 0, 0, 0.1);
     --switch-bg-url: url(imgs/sun.svg);
 }
@@ -158,7 +158,7 @@ ul li a:hover {
 
 @media (min-width: 700px) {
     :root {
-        --bg-url: url(imgs/bg-desktop.jpg);   
+        --bg-url: url(imgs/bg-mobile.jpg);
     }
     .light {
         --bg-url: url(imgs/bg-desktop-light.jpg);
