@@ -23,6 +23,7 @@
 }
 body {
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 }
 
 body * {
@@ -148,4 +149,13 @@ ul li a:hover {
     background: var(--highlight-color);
     padding: 16px;
     
+}
+
+@media (min-width: 700px) {
+    :root {
+        --bg-url: url(/imgs/bg-desktop.jpg)    
+    }
+    .light {
+        --bg-url: url(/imgs/bg-desktop-light.jpg)
+    }
 }
