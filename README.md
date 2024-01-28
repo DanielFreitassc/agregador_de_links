@@ -1,5 +1,5 @@
 # Agregador de links
-## Este projeto é um agregador de links desnvolvido com intuito de facilitar o acesso a todoas as minhas redes sociais
+## Este projeto é um agregador de links desenvolvido com intuito de facilitar o acesso a todoas as minhas redes sociais
 # Dark mode
 ![Alt text](image-12.png)
 
